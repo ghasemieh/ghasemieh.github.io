@@ -5,7 +5,7 @@ I am a Data Scientist with a master's degree in Business Administration (MBA). I
 
 Currently, I am working on a duplicate bug report detection system utilizing multiple NLP packages and three matrix factorization models in Python.
 
-#### My linkedIn: https://www.linkedin.com/in/ghasemieh/
+#### [My linkedIn](https://www.linkedin.com/in/ghasemieh/)
 
 ## Accomplishments
 - Duplicate Bug Report Detection System (NLP Based Recommendation Engine)
