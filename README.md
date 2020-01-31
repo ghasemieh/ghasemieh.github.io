@@ -1,7 +1,9 @@
-# Welcome to my GitHub
+# Welcome to my GitHub :)
 
-## Bio
-I am a Data Scientist with a master's degree in Business Administration (MBA). I am passionate about building a platform to deliver insight by facilitating the decision-making process and solving business problems through the application of cognitive computing and AI.
+## About me
+I'm a Data Scientist with a master's degree in Business Administration (MBA) and startup founder with 6+ years' experience delivering end-to-end data analysis and infrastructure projects to multiple clients. I have a deep industry background in big data, machine learning systems, NLP and statistics.
+
+I am passionate about building a platform to deliver insight by facilitating the decision-making process and solving business problems through the application of cognitive computing and AI.
 
 Currently, I am working on a duplicate bug report detection system utilizing multiple NLP packages and three models (TF-IDF, Word2Vec, BM25F) in Python.
 
