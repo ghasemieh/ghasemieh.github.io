@@ -18,7 +18,7 @@ Currently, I am working on a duplicate bug report detection system utilizing mul
 ## My Recent Open-Source Projects on GitHub
 
 ### - [Duplicate Bug Report Detection System](https://ghasemieh.github.io/Duplicated-Bug-Report-Detection-System/)
-This project aims to propose an effective unsupervised model for duplicate bug recommendations.
+This project aims to propose an effective unsupervised and supervised models to detect duplicate bug report in the Bugzilla repository. The search engine finds the top-N most similar reports to a given report, and deduplicate issues faster. Moreover, it presents an analytical dashboard to developers to understand the different aspects of the bug reports’ statistics and major sources of bug generation.
 
 ### - [Default Risk Modeling](https://github.com/ghasemieh/Default-Risk-Modeling)
 This project aims to build a Default Risk predictive model to assess the credibility of loan applicants.
